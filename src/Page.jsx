@@ -23,7 +23,7 @@ function Movie({movie, rank}) {
         <div className="flex flex-col">
           <span className="text-sm text-gray-600">{movie.year}</span>
           <p className="line-clamp-2 font-semibold">{movie.name}</p>
-          {!null && <p className="text-xs font-mono">{movie.id}</p>}
+          {null && <p className="text-xs font-mono">{movie.id}</p>}
         </div>
 
         <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-01 items-center">
