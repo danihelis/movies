@@ -4,6 +4,7 @@ import imdb from './assets/logos/imdb.png';
 import metacritic from './assets/logos/metacritic.png';
 import rotten from './assets/logos/rotten-tomatoes.png';
 import { Image } from './Image.jsx';
+import { Footer } from './Footer.jsx';
 import { CalendarIcon, StarIcon } from '@heroicons/react/24/outline';
 import { StarIcon as SolidStarIcon } from '@heroicons/react/24/solid';
 import { Dialog, DialogPanel, DialogBackdrop } from '@headlessui/react';
@@ -44,18 +45,18 @@ function Movie({movie, rank, onClick}) {
             </div>
           </div>
           <p className="line-clamp-2 font-semibold">{movie.name}</p>
-          {!null && <p className="text-xs font-mono">{movie.id}</p>}
+          {null && <p className="text-xs font-mono">{movie.id}</p>}
         </div>
 
         <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-01 items-center">
           <img src={metacritic} width={20} title="Metacritic" className="justify-self-center" />
-          <div className="flex gap-1 items-center">
+          <div className="flex gap-1 items-baseline">
             <span className="">{movie.meta}</span>
             <span className="text-xs text-gray-600" title="User score">/ {movie.meta_user}</span>
           </div>
 
           <img src={rotten} width={16} title="Rotten Tomatoes" className="justify-self-center" />
-          <div className="flex gap-1 items-center">
+          <div className="flex gap-1 items-baseline">
             <span className="">{movie.rotten}%</span>
             <span className="text-xs text-gray-600" title="User score">/ {movie.rotten_user}%</span>
           </div>
@@ -63,7 +64,7 @@ function Movie({movie, rank, onClick}) {
           <img src={imdb} width={30} title="IMDb" />
           <span className="">{(movie.imdb / 10).toFixed(1)}</span>
         </div>
-        <div className="absolute -bottom-1 -right-1 bg-gray-500 text-sm text-white p-1 rounded flex gap-1 items-center">
+        <div className="absolute -bottom-1 -right-1 bg-gray-500 text-sm text-white p-1 px-2 rounded flex gap-1 items-center">
           <SolidStarIcon className="size-4" />
           <span className="">{movie.score.toFixed(1)}</span>
         </div>
@@ -115,6 +116,7 @@ export function Page() {
         )}
       </div>
       <Modal onClose={() => setShowImage(null)} image={showImage} />
+      <Footer />
     </div>
   )
 }

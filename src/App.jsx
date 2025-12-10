@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Header } from './Header.jsx';
 import { Page } from './Page.jsx';
-import { Footer } from './Footer.jsx';
 
 
 export default function App() {
@@ -11,7 +10,6 @@ export default function App() {
       <div className="flex-grow flex flex-col max-w-[1024px] max-h-dvh h-dvh bg-white">
         <Header />
         <Page />
-        <Footer />
       </div>
     </div>
   )
