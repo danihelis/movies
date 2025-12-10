@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { FilmIcon } from '@heroicons/react/24/outline';
 
 
 async function getImage(name) {
@@ -11,7 +12,7 @@ async function getImage(name) {
 }
 
 
-export function Image({name, width, height, label}) {
+export function Image({name, width, height, label, onClick, className}) {
   const [imageSrc, setImageSrc] = useState();
 
   useEffect(() => {
@@ -23,8 +24,18 @@ export function Image({name, width, height, label}) {
   if (height) style.height = `${height}px`;
 
   return imageSrc ? (
-    <img src={imageSrc} width={width} height={height} style={style} title={label} />
+    <img
+      src={imageSrc}
+      width={width}
+      height={height}
+      style={style}
+      title={label}
+      className={`${onClick ? 'cursor-pointer' : ''} ${className}`}
+      onClick={onClick}
+    />
   ) : (
-    <div className="bg-gray-300" style={style} />
+    <div className="bg-gray-300 flex items-center justify-center" style={style}>
+      <FilmIcon className="size-8 text-gray-400" />
+    </div>
   );
 }
