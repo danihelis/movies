@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import { topByYear, topByScore } from './assets/database.js';
+import { topByYear, topByScore, topByName } from './assets/database.js';
 import imdb from './assets/logos/imdb.png';
 import metacritic from './assets/logos/metacritic.png';
 import rotten from './assets/logos/rotten-tomatoes.png';
 import { Image } from './Image.jsx';
 import { Footer } from './Footer.jsx';
-import { CalendarIcon, StarIcon } from '@heroicons/react/24/outline';
+import { CalendarIcon, StarIcon, LanguageIcon } from '@heroicons/react/24/outline';
 import { StarIcon as SolidStarIcon } from '@heroicons/react/24/solid';
 import { Dialog, DialogPanel, DialogBackdrop } from '@headlessui/react';
 
@@ -81,10 +81,11 @@ function Selector({method, setMethod}) {
   const createMethod = (value, Icon, label, position) => {
     const selected = value === method;
     let style = selected ? 'bg-gray-600 text-white' : 'bg-gray-200 cursor-pointer';
-    style += position === -1 ? ' rounded-l-lg' : position === 1 ? ' rounded-r-lg' : '';
+    style += ' ' + (position === -1 ? 'rounded-l-lg' :
+      position === 1 ? 'rounded-r-lg' : 'border-l border-r border-gray-300');
     return (
       <button
-        className={`flex gap-2 p-1 px-3 items-center ${style}`}
+        className={`flex gap-2 p-2 px-4 items-center ${style}`}
         onClick={() => setMethod(value)}
       >
         <Icon className="size-5" />
@@ -95,8 +96,9 @@ function Selector({method, setMethod}) {
 
   return (
     <div className="flex justify-center items-baseline py-4">
-      {createMethod('year', CalendarIcon, 'By year', -1)}
-      {createMethod('score', StarIcon, 'By score', 1)}
+      {createMethod('year', CalendarIcon, 'Year', -1)}
+      {createMethod('score', StarIcon, 'Score', 0)}
+      {createMethod('name', LanguageIcon, 'Name', 1)}
     </div>
   );
 }
@@ -105,7 +107,8 @@ function Selector({method, setMethod}) {
 export function Page() {
   const [sort, setSort] = useState('year');
   const [showImage, setShowImage] = useState();
-  const list = sort === 'year' ? topByYear : topByScore;
+  const list = sort === 'year' ? topByYear : sort === 'name' ? topByName :
+    topByScore;
 
   return (
     <div className="flex-grow min-h-0 p-4 overflow-y-auto flex flex-col items-center gap-4">

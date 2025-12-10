@@ -39,3 +39,6 @@ topByYear.sort((a, b) => b.year - a.year);
 
 export const topByScore = [...top];
 topByScore.sort((a, b) => b.score - a.score);
+
+export const topByName = [...top];
+topByName.sort((a, b) => a.id.localeCompare(b.id));
