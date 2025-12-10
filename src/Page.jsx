@@ -16,7 +16,7 @@ function Modal({onClose, image}) {
       <DialogBackdrop className="fixed inset-0 bg-black/80" />
       <div className="fixed inset-0 flex w-screen items-center justify-center p-4">
         <DialogPanel className="">
-          <Image name={image} onClick={onClose} />
+          {image && <Image name={image} onClick={onClose} />}
           <div className="text-xs text-center text-gray-400 mt-2">Click on the image to exit</div>
         </DialogPanel>
       </div>
@@ -44,7 +44,7 @@ function Movie({movie, rank, onClick}) {
             </div>
           </div>
           <p className="line-clamp-2 font-semibold">{movie.name}</p>
-          {null && <p className="text-xs font-mono">{movie.id}</p>}
+          {!null && <p className="text-xs font-mono">{movie.id}</p>}
         </div>
 
         <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-01 items-center">
