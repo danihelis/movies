@@ -1,119 +1,137 @@
 --- 2022 TO 2026 ---
+0.. 0.. 0.. 0.. 087   (2023) 12th Fail
 095 080 096 081 076   (2022) Aftersun
-093 069 100 071 071   (2024) All We Imagine as Light
+093 0.. 0.. 0.. 0..   (2024) All We Imagine as Light
 084 074 099 094 073   (2023) Are You There God? It's Me, Margaret.
-078 071 097 094 073   (2023) BlackBerry
-071 089 096 098 084   (2025) Chainsaw Man - The Movie: Reze Arc
+092 0.. 0.. 0.. 0..   (2025) BLKNWS: Terms & Conditions
+0.. 0.. 097 0.. 0..   (2023) BlackBerry
+0.. 0.. 0.. 0.. 084   (2025) Chainsaw Man - The Movie: Reze Arc
+0.. 0.. 0.. 0.. 084   (2025) Demon Slayer: Kimetsu no Yaiba Infinity Castle
 067 080 098 098 085   (2025) Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle
 095 067 096 068 074   (2024) Do Not Expect Too Much From the End of the World
 079 084 092 095 084   (2024) Dune: Part Two
-087 083 097 098 079   (2024) Flow
+087 0.. 097 0.. 0..   (2024) Flow
 082 077 099 092 075   (2024) Ghostlight
 081 085 099 098 077   (2023) Godzilla Minus One
-085 091 097 097 081   (2024) I'm Still Here
+0.. 0.. 097 0.. 0..   (2024) I'm Still Here
 094 073 094 063 068   (2024) Inside the Yellow Cocoon Shell
-095 076 100 098 088   (2025) Kill Bill: The Whole Bloody Affair
-093 078 099 077 072   (2022) No Bears
+095 0.. 0.. 0.. 0..   (2025) Kill Bill: The Whole Bloody Affair
+0.. 0.. 0.. 0.. 083   (2023) Lost Ladies
+0.. 0.. 0.. 0.. 083   (2024) Maharaja
+085 0.. 0.. 0.. 0..   (2026) My Father's Shadow
+093 0.. 0.. 0.. 0..   (2025) My Undesirable Friends: Part I - Last Air in Moscow
+093 0.. 0.. 0.. 0..   (2022) No Bears
 093 078 100 100 082 D (2024) No Other Land
 095 071 094 085 079   (2025) One Battle After Another
 090 084 093 091 083   (2023) Oppenheimer
-093 046 100 043 078 D (2023) Our Body
+093 0.. 0.. 0.. 0..   (2023) Our Body
 094 078 095 093 078   (2023) Past Lives
+085 0.. 0.. 0.. 0..   (2026) Pillion
 087 079 098 088 076   (2023) Robot Dreams
-084 075 097 096 075   (2025) Sinners
+091 0.. 0.. 0.. 0..   (2026) Seeds
+0.. 0.. 097 0.. 0..   (2025) Sinners
+090 0.. 0.. 0.. 0..   (2026) Sound of Falling
 086 085 095 095 085   (2023) Spider-Man: Across the Spider-Verse
 078 082 099 095 081 D (2023) Still: A Michael J. Fox Movie
 076 081 098 098 080 D (2024) Super/Man: The Christopher Reeve Story
-082 081 097 092 079   (2023) The Holdovers
-084 076 097 094 075   (2024) The Seed of the Sacred Fig
+0.. 0.. 097 0.. 0..   (2023) The Holdovers
+0.. 0.. 097 0.. 0..   (2024) The Seed of the Sacred Fig
 085 085 097 098 082   (2024) The Wild Robot
 078 084 096 099 082   (2022) Top Gun: Maverick
 094 078 096 079 073   (2023) Trenque Lauquen Parte I
-093 075 091 074 074   (2022) TÁR
+094 0.. 0.. 0.. 0..   (2023) Trenque Lauquen Parte II
+093 0.. 0.. 0.. 0..   (2022) TÁR
 083 076 100 091 075   (2024) Wallace & Gromit: Vengeance Most Fowl
+086 0.. 0.. 0.. 0..   (2026) Yes
 
 --- 2017 TO 2021 ---
-078 083 088 088 082   (2019) 1917
+0.. 0.. 0.. 0.. 082   (2019) 1917
 084 073 100 086 071 D (2020) 76 Days
-094 081 099 080 075 D (2018) Amazing Grace
+094 0.. 0.. 0.. 0..   (2018) Amazing Grace
 088 082 099 090 081 D (2019) Apollo 11
 078 083 094 090 084   (2019) Avengers: Endgame
 068 087 085 092 084   (2018) Avengers: Infinity War
-094 079 095 086 075   (2017) Call Me by Your Name
+094 0.. 0.. 0.. 0..   (2017) Call Me by Your Name
 075 083 090 093 084   (2018) Capernaum
 081 084 097 094 084   (2017) Coco
 095 074 099 089 081 D (2019) Collective
 086 074 100 090 077 D (2020) Crip Camp
-072 083 098 099 082   (2020) Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-094 082 092 081 078   (2017) Dunkirk
-085 079 099 082 073   (2018) Eighth Grade
-094 071 099 089 078 D (2017) Faces Places
-069 080 077 092 082   (2018) Green Book
+0.. 0.. 0.. 0.. 082   (2020) Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+094 0.. 0.. 0.. 0..   (2017) Dunkirk
+0.. 0.. 099 0.. 0..   (2018) Eighth Grade
+094 0.. 099 0.. 0..   (2017) Faces Places
+0.. 0.. 0.. 0.. 082   (2018) Green Book
 088 078 098 099 083   (2020) Hamilton
 085 087 100 086 080 D (2019) Honeyland
+0.. 0.. 0.. 0.. 086   (2021) Jai Bhim
 059 089 068 089 083   (2019) Joker
-065 088 095 096 082   (2019) Klaus
+0.. 0.. 0.. 0.. 082   (2019) Klaus
 088 076 100 078 071   (2018) Leave No Trace
 080 081 098 090 076   (2021) Marcel the Shell with Shoes On
 094 081 095 085 079   (2019) Marriage Story
 089 079 100 090 080 D (2018) Minding the Gap
-088 083 099 089 078   (2017) Paddington 2
+088 0.. 099 0.. 0..   (2017) Paddington 2
 097 088 099 090 085   (2019) Parasite
-093 079 097 081 074   (2021) Petite Maman
+093 0.. 0.. 0.. 0..   (2021) Petite Maman
 095 085 097 092 080   (2019) Portrait of a Lady on Fire
 097 083 100 090 080   (2021) Quo Vadis, Aida?
 095 068 097 081 074   (2019) Rocks
 096 076 096 072 076   (2018) Roma
 093 083 099 091 079   (2018) Shoplifters
+095 0.. 0.. 0.. 0..   (2020) Small Axe: Lovers Rock
 087 088 097 093 084   (2018) Spider-Man: Into the Spider-Verse
-071 085 093 097 082   (2021) Spider-Man: No Way Home
-096 077 099 098 080 D (2021) Summer of Soul (...Or, When the Revolution Could Not Be Televised)
-088 085 098 088 082   (2020) The Father
+0.. 0.. 093 0.. 082   (2021) Spider-Man: No Way Home
+096 077 099 098 080 D (2021) Summer of Soul
+0.. 0.. 099 0.. 0..   (2021) Summer of Soul (...Or, When the Revolution Could Not Be Televised)
+088 0.. 098 0.. 082   (2020) The Father
 094 080 095 086 078   (2019) The Irishman
-091 086 099 091 082 D (2018) They Shall Not Grow Old
+091 0.. 099 0.. 0..   (2018) They Shall Not Grow Old
 087 086 099 098 080   (2020) Wolfwalkers
 
 --- 2012 TO 2016 ---
 096 080 095 090 081   (2013) 12 Years a Slave
 094 073 097 067 071   (2015) 45 Years
-078 088 095 094 082   (2016) A Silent Voice: The Movie
+0.. 0.. 0.. 0.. 082   (2016) A Silent Voice: The Movie
 095 081 093 082 079   (2012) Amour
-094 083 098 082 079   (2013) Before Midnight
+094 0.. 0.. 0.. 0..   (2013) Before Midnight
 083 082 098 090 081 D (2013) Blackfish
 100 076 097 080 079   (2014) Boyhood
 088 078 097 087 075   (2015) Brooklyn
 094 080 094 075 073   (2015) Carol
+0.. 0.. 0.. 0.. 083   (2016) Dangal
 081 086 087 092 085   (2012) Django Unchained
-089 085 094 090 082   (2012) Gangs of Wasseypur
+0.. 0.. 0.. 0.. 082   (2015) Drishyam
+089 0.. 0.. 0.. 082   (2012) Gangs of Wasseypur
 096 077 096 079 077   (2013) Gravity
-071 083 084 092 081   (2016) Hacksaw Ridge
-088 080 097 089 076   (2016) Hell or High Water
-081 080 097 091 078   (2016) Hunt for the Wilderpeople
+0.. 0.. 0.. 0.. 081   (2016) Hacksaw Ridge
+088 0.. 097 0.. 0..   (2016) Hell or High Water
+0.. 0.. 097 0.. 0..   (2016) Hunt for the Wilderpeople
 095 054 099 083 079 D (2016) I Am Not Your Negro
 094 086 098 089 081   (2015) Inside Out
 074 087 073 087 087   (2014) Interstellar
-094 084 091 082 080   (2016) La La Land
+094 0.. 0.. 0.. 0..   (2016) La La Land
 087 079 098 088 078 D (2014) Life Itself
 090 085 097 086 081   (2015) Mad Max: Fury Road
 096 082 096 078 078   (2016) Manchester by the Sea
 099 071 098 079 074   (2016) Moonlight
 094 069 096 056 068   (2014) Mr. Turner
-085 083 099 089 078   (2016) My Life as a Zucchini
+0.. 0.. 099 0.. 0..   (2016) My Life as a Zucchini
 070 082 081 087 082   (2013) Prisoners
 079 073 099 086 075   (2014) Selma
 082 084 098 092 079   (2013) Short Term 12
 093 081 097 093 081   (2015) Spotlight
 078 085 087 090 084   (2012) The Dark Knight Rises
-085 085 096 091 081   (2016) The Handmaiden
+0.. 0.. 096 0.. 081   (2016) The Handmaiden
 091 085 092 093 083   (2012) The Hunt
 075 081 079 083 082   (2013) The Wolf of Wall Street
-093 071 093 073 073   (2016) Toni Erdmann
-092 078 099 089 079 D (2016) Tower
+093 0.. 0.. 0.. 0..   (2016) Toni Erdmann
+092 0.. 099 0.. 0..   (2016) Tower
 081 072 099 088 075   (2012) Wadjda
 089 088 094 094 085   (2014) Whiplash
+0.. 0.. 098 0.. 0..   (2016) Your Name
 081 089 098 095 084   (2016) Your Name.
 095 070 091 080 074   (2012) Zero Dark Thirty
-078 086 098 092 080   (2016) Zootopia
+0.. 0.. 098 0.. 0..   (2016) Zootopia
 
 --- 2007 TO 2011 ---
 067 084 100 093 084   (2009) 3 Idiots
@@ -286,7 +304,7 @@
 084 089 094 094 084   (1986) Aliens
 087 087 090 095 084   (1984) Amadeus
 088 090 093 095 085   (1985) Back to the Future
-084 086 089 091 081   (1982) Blade Runner
+0.. 0.. 0.. 0.. 081   (1982) Blade Runner
 084 081 098 090 078   (1985) Brazil
 0.. 0.. 0.. 0.. 083   (1985) Come and See
 088 0.. 0.. 0.. 0..   (1982) Diva
@@ -306,17 +324,17 @@
 084 086 100 089 081   (1984) The Terminator
 078 075 085 092 082   (1982) The Thing
 092 081 098 092 079   (1984) This Is Spinal Tap
-088 079 091 081 074   (1982) Tootsie
+088 0.. 0.. 0.. 0..   (1982) Tootsie
 
 --- 1977 TO 1981 ---
 089 089 093 094 085   (1979) Alien
 092 072 097 092 079   (1977) Annie Hall
 094 087 090 094 084   (1979) Apocalypse Now
 091 082 095 088 077   (1979) Breaking Away
-090 079 091 085 076   (1977) Close Encounters of the Third Kind
+090 0.. 0.. 0.. 0..   (1977) Close Encounters of the Third Kind
 085 086 098 096 084   (1981) Das Boot
 094 080 094 089 077   (1978) Days of Heaven
-087 073 087 082 072   (1978) Eraserhead
+087 0.. 0.. 0.. 0..   (1978) Eraserhead
 091 084 097 089 077   (1978) Halloween
 094 070 095 077 075   (1978) Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles
 096 078 098 084 072   (1978) Killer of Sheep
@@ -339,9 +357,9 @@
 094 078 097 090 077   (1973) Badlands
 089 085 077 092 081   (1975) Barry Lyndon
 092 087 098 077 081   (1974) Chinatown
-086 085 096 090 080   (1975) Dog Day Afternoon
+0.. 0.. 096 0.. 0..   (1975) Dog Day Afternoon
 095 065 093 076 071   (1973) Don't Look Now
-092 076 089 078 074   (1972) Frenzy
+092 0.. 0.. 0.. 0..   (1972) Frenzy
 080 066 100 092 082 D (1976) Harlan County, U.S.A.
 087 087 097 091 081   (1975) Jaws
 089 078 100 090 076   (1975) Love and Death
@@ -358,10 +376,10 @@
 0.. 0.. 0.. 0.. 081   (1973) The Exorcist
 100 093 097 098 092   (1972) The Godfather
 090 091 096 097 090   (1974) The Godfather Part II
-091 075 097 090 077   (1975) The Man Who Would Be King
+091 0.. 0.. 0.. 0..   (1975) The Man Who Would Be King
 082 080 100 091 082   (1975) The Mirror
 083 082 093 095 082   (1973) The Sting
-092 079 084 082 074   (1974) The Texas Chain Saw Massacre
+092 0.. 0.. 0.. 0..   (1974) The Texas Chain Saw Massacre
 0.. 0.. 100 0.. 0..   (1972) Winter Soldier
 
 --- 1967 TO 1971 ---
@@ -376,10 +394,10 @@
 093 074 085 086 076   (1971) McCabe & Mrs. Miller
 082 087 096 094 085   (1968) Once Upon a Time in the West
 099 075 098 089 078   (1967) Playtime
-090 084 073 094 083   (1968) Red Beard
+090 0.. 0.. 0.. 0..   (1968) Red Beard
 096 083 097 087 080   (1968) Rosemary's Baby
 0.. 0.. 100 0.. 0..   (1969) Salesman
-090 075 100 093 083   (1967) Samurai Rebellion
+090 0.. 0.. 0.. 0..   (1967) Samurai Rebellion
 100 073 098 090 079   (1970) The Conformist
 094 080 097 087 077   (1971) The French Connection
 093 082 098 089 080   (1971) The Last Picture Show
@@ -387,17 +405,18 @@
 0.. 0.. 100 0.. 0..   (1969) The Sorrow and the Pity
 098 079 091 090 079   (1969) The Wild Bunch
 094 078 100 081 075   (1970) The Wild Child
-089 080 092 081 072   (1971) Two-Lane Blacktop
+089 0.. 0.. 0.. 0..   (1971) Two-Lane Blacktop
 095 086 100 092 081 D (1970) Woodstock
 
 --- 1962 TO 1966 ---
 096 088 099 089 077   (1964) 007: Goldfinger
-093 082 097 091 080   (1963) 8½
+0.. 0.. 097 0.. 0..   (1963) 8 1/2
+093 0.. 0.. 0.. 0..   (1963) 8½
 065 079 098 098 091   (1964) A Fistful of Dollars
 096 082 098 091 080   (1964) A Hard Day's Night
-092 081 092 081 070   (1965) Alphaville
+092 0.. 0.. 0.. 0..   (1965) Alphaville
 098 072 100 085 077   (1966) Au Hasard Balthazar
-093 075 094 091 076   (1966) Band of Outsiders
+093 0.. 0.. 0.. 0..   (1966) Band of Outsiders
 097 088 098 094 083   (1964) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 074 083 092 094 082   (1965) For a Few Dollars More
 085 087 100 097 086   (1962) Harakiri
@@ -406,9 +425,9 @@
 0.. 0.. 100 0.. 0..   (1963) Ivan's Childhood
 097 070 094 089 076   (1962) Jules and Jim
 100 085 093 093 083   (1962) Lawrence of Arabia
-093 084 096 086 074   (1966) Masculine Feminine
+093 0.. 0.. 0.. 0..   (1966) Masculine Feminine
 095 078 094 090 077   (1964) My Fair Lady
-092 085 089 083 074   (1962) Ride the High Country
+092 0.. 0.. 0.. 0..   (1962) Ride the High Country
 083 081 100 095 080   (1962) Sanjuro
 0.. 0.. 100 0.. 0..   (1965) Simon of the Desert
 096 084 099 095 081   (1966) The Battle of Algiers
@@ -429,7 +448,7 @@
 095 082 100 091 080   (1959) Anatomy of a Murder
 090 087 100 087 081   (1959) Ben-Hur
 096 076 095 090 077   (1961) Breathless
-094 079 093 091 079   (1961) Elevator to the Gallows
+094 0.. 0.. 0.. 0..   (1961) Elevator to the Gallows
 0.. 0.. 100 0.. 0..   (1960) Jalsaghar
 060 086 093 093 083   (1961) Judgment at Nuremberg
 095 084 095 090 080   (1961) La Dolce Vita
@@ -442,9 +461,9 @@
 100 075 098 091 080   (1957) Sweet Smell of Success
 0.. 0.. 099 0.. 0..   (1959) The 400 Blows
 094 087 093 094 083   (1960) The Apartment
-088 079 096 093 081   (1957) The Bridge on the River Kwai
-090 080 094 092 079   (1961) The Hustler
-088 085 093 081 081   (1957) The Seventh Seal
+088 0.. 096 0.. 081   (1957) The Bridge on the River Kwai
+090 0.. 0.. 0.. 0..   (1961) The Hustler
+088 0.. 0.. 0.. 081   (1957) The Seventh Seal
 084 079 100 092 079   (1961) Through a Glass Darkly
 099 076 096 092 079   (1958) Touch of Evil
 100 087 093 092 082   (1958) Vertigo
@@ -458,20 +477,20 @@
 0.. 0.. 100 0.. 0..   (1952) Forbidden Games
 087 077 100 090 078   (1953) I Vitelloni
 092 089 098 096 083   (1952) Ikiru
-092 081 097 085 077   (1956) Invasion of the Body Snatchers
+092 0.. 0.. 0.. 0..   (1956) Invasion of the Body Snatchers
 0.. 0.. 100 0.. 0..   (1955) Night and Fog
 091 084 099 095 081   (1954) On the Waterfront
 0.. 0.. 100 0.. 0..   (1955) Ordet
 0.. 0.. 098 0.. 0..   (1955) Pather Panchali
 100 087 099 095 085   (1954) Rear Window
-088 045 081 079 073   (1956) Richard III
+088 0.. 0.. 0.. 0..   (1956) Richard III
 097 083 092 095 081   (1955) Rififi
 096 076 100 095 083   (1954) Sansho the Bailiff
 098 090 100 097 086   (1954) Seven Samurai
 099 088 100 095 083   (1952) Singin' in the Rain
-091 072 096 086 077   (1952) The African Queen
+091 0.. 0.. 0.. 0..   (1952) The African Queen
 093 070 095 082 074   (1953) The Band Wagon
-091 075 096 092 079   (1956) The Killing
+091 0.. 0.. 0.. 0..   (1956) The Killing
 091 077 100 087 076   (1955) The Ladykillers
 097 081 093 090 080   (1955) The Night of the Hunter
 094 076 087 088 078   (1956) The Searchers
@@ -492,7 +511,7 @@
 089 073 100 089 077   (1947) Quai des Orfevres
 098 084 098 093 081   (1950) Rashomon
 096 074 100 087 077   (1948) Red River
-088 080 098 092 079   (1951) Strangers on a Train
+088 0.. 098 0.. 0..   (1951) Strangers on a Train
 0.. 0.. 100 0.. 0..   (1949) Stray Dog
 094 086 098 095 084   (1950) Sunset Boulevard
 088 069 100 088 076   (1948) The Fallen Idol

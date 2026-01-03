@@ -7,9 +7,10 @@ import sys
 import unicodedata
 
 
-IMDB_FILE = 'imdb.txt'
+IMDB_FILE = 'imdb-26.txt'
 ROTTEN_FILE = 'rotten.txt'
 META_FILE = 'meta.txt'
+META_EXTRA_FILE = 'meta-26.txt'
 
 
 def slugify(text):
@@ -136,10 +137,10 @@ def extract_rotten(database):
 
     print('> Loaded', count, 'movies from', ROTTEN_FILE)
 
-def extract_meta(database):
+def extract_meta(database, filename=META_FILE):
     count = 0
     skipped = 0
-    with open(META_FILE) as stream:
+    with open(filename) as stream:
         lines = stream.readlines()
         index = 0
         while index < len(lines):
@@ -195,6 +196,7 @@ if __name__ == '__main__':
     extract_imdb(database)
     extract_rotten(database)
     extract_meta(database)
+    extract_meta(database, META_EXTRA_FILE)
     print('> Database has', len(database.movies), 'movies')
 
     movies = database.filter(args.start, args.end, args.criteria)

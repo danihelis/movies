@@ -1,0 +1,101 @@
+> Loaded 447 movies
+  1. 2025  95|76|00|98|88 (91.4)  Kill Bill: The Whole Bloody Affair
+  2. 2024  85|91|97|97|81 (90.2)  I'm Still Here
+  3. 2024  85|85|97|98|82 (89.4)  The Wild Robot
+  4. 2024  87|83|97|98|79 (88.8)  Flow
+  5. 2023  86|85|95|95|85 (89.2)  Spider-Man: Across the Spider-Verse
+  6. 2021  97|83|00|90|80 (90.0)  Quo Vadis, Aida?
+  7. 2020  87|86|99|98|80 (90.0)  Wolfwalkers
+  8. 2020  88|78|98|99|83 (89.2)  Hamilton
+  9. 2019  97|88|99|90|85 (91.8)  Parasite
+ 10. 2019  95|85|97|92|80 (89.8)  Portrait of a Lady on Fire
+ 11. 2018  87|88|97|93|84 (89.8)  Spider-Man: Into the Spider-Verse
+ 12. 2018  93|83|99|91|79 (89.0)  Shoplifters
+ 13. 2016  81|89|98|95|84 (89.4)  Your Name.
+ 14. 2015  94|86|98|89|81 (89.6)  Inside Out
+ 15. 2015  93|81|97|93|81 (89.0)  Spotlight
+ 16. 2014  89|88|94|94|85 (90.0)  Whiplash
+ 17. 2011  95|89|99|92|83 (91.6)  A Separation
+ 18. 2010  92|88|98|90|83 (90.2)  Toy Story 3
+ 19. 2009  88|86|98|90|83 (89.0)  Up
+ 20. 2008  85|92|94|94|91 (91.2)  The Dark Knight
+ 21. 2008  95|89|95|90|84 (90.6)  WALL·E
+ 22. 2007  96|86|96|87|81 (89.2)  Ratatouille
+ 23. 2006  98|87|95|91|82 (90.6)  Pan's Labyrinth
+ 24. 2006  89|87|92|96|84 (89.6)  The Lives of Others
+ 25. 2004  89|88|93|94|83 (89.4)  Eternal Sunshine of the Spotless Mind
+ 26. 2003  94|94|94|86|90 (91.6)  The Lord of the Rings: The Return of the King
+ 27. 2003  89|83|94|98|84 (89.6)  The Best of Youth
+ 28. 2002  87|92|95|95|88 (91.4)  The Lord of the Rings: The Two Towers
+ 29. 2002  85|87|95|96|85 (89.6)  The Pianist
+ 30. 2001  96|90|96|96|86 (92.8)  Spirited Away
+ 31. 2001  92|93|92|95|89 (92.2)  The Lord of the Rings: The Fellowship of the Ring
+ 32. 2000  94|86|97|91|81 (89.8)  Yi Yi
+ 33. 1998  91|89|94|95|86 (91.0)  Saving Private Ryan
+ 34. 1997  91|85|99|94|82 (90.2)  L.A. Confidential
+ 35. 1995  96|89|00|92|83 (92.0)  Toy Story
+ 36. 1994  95|90|92|96|88 (92.2)  Pulp Fiction
+ 37. 1994  00|83|00|94|81 (91.6)  Three Colors: Red
+ 38. 1994  82|92|89|98|93 (90.8)  The Shawshank Redemption
+ 39. 1994  88|89|92|93|85 (89.4)  The Lion King
+ 40. 1993  95|91|98|97|90 (94.2)  Schindler's List
+ 41. 1991  86|88|95|95|86 (90.0)  The Silence of the Lambs
+ 42. 1990  92|90|93|97|87 (91.8)  Goodfellas
+ 43. 1989  97|82|98|92|78 (89.4)  My Left Foot
+ 44. 1988  94|90|00|95|85 (92.8)  Grave of the Fireflies
+ 45. 1988  00|74|00|98|89 (92.2)  Dekalog
+ 46. 1986  84|89|94|94|84 (89.0)  Aliens
+ 47. 1985  97|86|96|95|82 (91.2)  Ran
+ 48. 1985  88|90|93|95|85 (90.2)  Back to the Future
+ 49. 1982  00|83|00|94|81 (91.6)  Fanny and Alexander
+ 50. 1981  85|86|98|96|84 (89.8)  Das Boot
+ 51. 1981  86|88|94|96|84 (89.6)  Raiders of the Lost Ark
+ 52. 1980  82|92|93|97|87 (90.2)  Star Wars: Episode V - The Empire Strikes Back
+ 53. 1979  89|89|93|94|85 (90.0)  Alien
+ 54. 1979  94|87|90|94|84 (89.8)  Apocalypse Now
+ 55. 1977  90|89|94|96|86 (91.0)  Star Wars: Episode IV - A New Hope
+ 56. 1975  84|88|93|96|86 (89.4)  One Flew Over the Cuckoo's Nest
+ 57. 1975  91|86|92|95|82 (89.2)  Monty Python and the Holy Grail
+ 58. 1974  90|91|96|97|90 (92.8)  The Godfather Part II
+ 59. 1972  00|93|97|98|92 (96.0)  The Godfather
+ 60. 1967  92|84|00|95|80 (90.2)  Cool Hand Luke
+ 61. 1966  90|92|97|97|88 (92.8)  The Good, the Bad and the Ugly
+ 62. 1966  96|84|99|95|81 (91.0)  The Battle of Algiers
+ 63. 1964  97|88|98|94|83 (92.0)  Dr. Strangelove or: How I Learned to Stop Worrying and Love…
+ 64. 1964  96|88|99|89|77 (89.8)  007: Goldfinger
+ 65. 1964  96|82|98|91|80 (89.4)  A Hard Day's Night
+ 66. 1963  90|83|97|95|84 (89.8)  High and Low
+ 67. 1962  85|87|00|97|86 (91.0)  Harakiri
+ 68. 1962  00|85|93|93|83 (90.8)  Lawrence of Arabia
+ 69. 1961  93|82|96|96|82 (89.8)  Yojimbo
+ 70. 1960  97|89|97|95|85 (92.6)  Psycho
+ 71. 1960  94|87|93|94|83 (90.2)  The Apartment
+ 72. 1959  98|84|97|94|83 (91.2)  North by Northwest
+ 73. 1959  98|84|95|94|82 (90.6)  Some Like It Hot
+ 74. 1959  95|82|00|91|80 (89.6)  Anatomy of a Murder
+ 75. 1958  00|87|93|92|82 (90.8)  Vertigo
+ 76. 1957  97|92|00|97|90 (95.2)  12 Angry Men
+ 77. 1957  90|85|96|95|84 (90.0)  Paths of Glory
+ 78. 1955  97|83|92|95|81 (89.6)  Rififi
+ 79. 1954  98|90|00|97|86 (94.2)  Seven Samurai
+ 80. 1954  00|87|99|95|85 (93.2)  Rear Window
+ 81. 1954  91|84|99|95|81 (90.0)  On the Waterfront
+ 82. 1954  96|76|00|95|83 (90.0)  Sansho the Bailiff
+ 83. 1953  00|85|00|93|81 (91.8)  Tokyo Story
+ 84. 1952  99|88|00|95|83 (93.0)  Singin' in the Rain
+ 85. 1952  92|89|98|96|83 (91.6)  Ikiru
+ 86. 1952  92|85|98|93|81 (89.8)  Umberto D
+ 87. 1950  98|85|99|94|82 (91.6)  All About Eve
+ 88. 1950  94|86|98|95|84 (91.4)  Sunset Boulevard
+ 89. 1950  98|84|98|93|81 (90.8)  Rashomon
+ 90. 1949  97|84|99|93|81 (90.8)  The Third Man
+ 91. 1948  98|82|00|93|82 (91.0)  The Treasure of the Sierra Madre
+ 92. 1946  89|88|94|95|86 (90.4)  It's a Wonderful Life
+ 93. 1944  95|86|97|95|83 (91.2)  Double Indemnity
+ 94. 1942  00|87|99|95|85 (93.2)  Casablanca
+ 95. 1941  00|83|99|90|82 (90.8)  Citizen Kane
+ 96. 1941  97|83|99|91|79 (89.8)  The Maltese Falcon
+ 97. 1936  96|87|98|95|85 (92.2)  Modern Times
+ 98. 1931  99|87|95|95|85 (92.2)  City Lights
+ 99. 1928  98|86|98|93|81 (91.2)  The Passion of Joan of Arc
+100. 1927  98|87|97|92|82 (91.2)  Metropolis
