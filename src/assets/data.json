@@ -348,6 +348,18 @@
     "score": 91.6
   },
   {
+    "id": "kill-bill-the-whole-bloody-affair",
+    "name": "Kill Bill: The Whole Bloody Affair",
+    "year": 2025,
+    "imdb": 88,
+    "rotten": 100,
+    "meta": 95,
+    "rotten_user": 98,
+    "meta_user": 76,
+    "documentary": false,
+    "score": 91.4
+  },
+  {
     "id": "the-lord-of-the-rings-the-two-towers",
     "name": "The Lord of the Rings: The Two Towers",
     "year": 2002,
@@ -648,6 +660,18 @@
     "score": 90.4
   },
   {
+    "id": "i-m-still-here",
+    "name": "I'm Still Here",
+    "year": 2024,
+    "imdb": 81,
+    "rotten": 97,
+    "meta": 85,
+    "rotten_user": 97,
+    "meta_user": 91,
+    "documentary": false,
+    "score": 90.2
+  },
+  {
     "id": "toy-story-3",
     "name": "Toy Story 3",
     "year": 2010,
@@ -744,8 +768,8 @@
     "score": 90.0
   },
   {
-    "id": "summer-of-soul",
-    "name": "Summer of Soul",
+    "id": "summer-of-soul-or-when-the-revolution-could-not-be-televised-",
+    "name": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
     "year": 2021,
     "imdb": 80,
     "rotten": 99,
@@ -873,6 +897,18 @@
     "rotten_user": 93,
     "meta_user": 88,
     "documentary": false,
+    "score": 89.8
+  },
+  {
+    "id": "they-shall-not-grow-old",
+    "name": "They Shall Not Grow Old",
+    "year": 2018,
+    "imdb": 82,
+    "rotten": 99,
+    "meta": 91,
+    "rotten_user": 91,
+    "meta_user": 86,
+    "documentary": true,
     "score": 89.8
   },
   {
@@ -1392,6 +1428,18 @@
     "score": 89.0
   },
   {
+    "id": "flow",
+    "name": "Flow",
+    "year": 2024,
+    "imdb": 79,
+    "rotten": 97,
+    "meta": 87,
+    "rotten_user": 98,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 88.8
+  },
+  {
     "id": "the-hunt",
     "name": "The Hunt",
     "year": 2012,
@@ -1584,6 +1632,18 @@
     "score": 88.6
   },
   {
+    "id": "8\u00bd",
+    "name": "8\u00bd",
+    "year": 1963,
+    "imdb": 80,
+    "rotten": 97,
+    "meta": 93,
+    "rotten_user": 91,
+    "meta_user": 82,
+    "documentary": false,
+    "score": 88.6
+  },
+  {
     "id": "gone-with-the-wind",
     "name": "Gone with the Wind",
     "year": 1939,
@@ -1752,6 +1812,18 @@
     "score": 88.2
   },
   {
+    "id": "the-father",
+    "name": "The Father",
+    "year": 2020,
+    "imdb": 82,
+    "rotten": 98,
+    "meta": 88,
+    "rotten_user": 88,
+    "meta_user": 85,
+    "documentary": false,
+    "score": 88.2
+  },
+  {
     "id": "waltz-with-bashir",
     "name": "Waltz With Bashir",
     "year": 2008,
@@ -1824,6 +1896,18 @@
     "score": 88.2
   },
   {
+    "id": "samurai-rebellion",
+    "name": "Samurai Rebellion",
+    "year": 1967,
+    "imdb": 83,
+    "rotten": 100,
+    "meta": 90,
+    "rotten_user": 93,
+    "meta_user": 75,
+    "documentary": false,
+    "score": 88.2
+  },
+  {
     "id": "rio-bravo",
     "name": "Rio Bravo",
     "year": 1959,
@@ -1880,6 +1964,18 @@
     "meta": 81,
     "rotten_user": 94,
     "meta_user": 84,
+    "documentary": false,
+    "score": 88.0
+  },
+  {
+    "id": "gangs-of-wasseypur",
+    "name": "Gangs of Wasseypur",
+    "year": 2012,
+    "imdb": 82,
+    "rotten": 94,
+    "meta": 89,
+    "rotten_user": 90,
+    "meta_user": 85,
     "documentary": false,
     "score": 88.0
   },
@@ -2160,6 +2256,18 @@
     "score": 87.8
   },
   {
+    "id": "chainsaw-man-the-movie-reze-arc",
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "year": 2025,
+    "imdb": 84,
+    "rotten": 96,
+    "meta": 71,
+    "rotten_user": 98,
+    "meta_user": 89,
+    "documentary": false,
+    "score": 87.6
+  },
+  {
     "id": "past-lives",
     "name": "Past Lives",
     "year": 2023,
@@ -2205,6 +2313,18 @@
     "rotten_user": 90,
     "meta_user": 79,
     "documentary": true,
+    "score": 87.6
+  },
+  {
+    "id": "the-handmaiden",
+    "name": "The Handmaiden",
+    "year": 2016,
+    "imdb": 81,
+    "rotten": 96,
+    "meta": 85,
+    "rotten_user": 91,
+    "meta_user": 85,
+    "documentary": false,
     "score": 87.6
   },
   {
@@ -2328,6 +2448,42 @@
     "score": 87.6
   },
   {
+    "id": "paddington-2",
+    "name": "Paddington 2",
+    "year": 2017,
+    "imdb": 78,
+    "rotten": 99,
+    "meta": 88,
+    "rotten_user": 89,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 87.4
+  },
+  {
+    "id": "a-silent-voice-the-movie",
+    "name": "A Silent Voice: The Movie",
+    "year": 2016,
+    "imdb": 82,
+    "rotten": 95,
+    "meta": 78,
+    "rotten_user": 94,
+    "meta_user": 88,
+    "documentary": false,
+    "score": 87.4
+  },
+  {
+    "id": "tower",
+    "name": "Tower",
+    "year": 2016,
+    "imdb": 79,
+    "rotten": 99,
+    "meta": 92,
+    "rotten_user": 89,
+    "meta_user": 78,
+    "documentary": true,
+    "score": 87.4
+  },
+  {
     "id": "inside-job",
     "name": "Inside Job",
     "year": 2010,
@@ -2337,6 +2493,18 @@
     "rotten_user": 91,
     "meta_user": 83,
     "documentary": true,
+    "score": 87.4
+  },
+  {
+    "id": "dog-day-afternoon",
+    "name": "Dog Day Afternoon",
+    "year": 1975,
+    "imdb": 80,
+    "rotten": 96,
+    "meta": 86,
+    "rotten_user": 90,
+    "meta_user": 85,
+    "documentary": false,
     "score": 87.4
   },
   {
@@ -2352,6 +2520,30 @@
     "score": 87.4
   },
   {
+    "id": "the-bridge-on-the-river-kwai",
+    "name": "The Bridge on the River Kwai",
+    "year": 1957,
+    "imdb": 81,
+    "rotten": 96,
+    "meta": 88,
+    "rotten_user": 93,
+    "meta_user": 79,
+    "documentary": false,
+    "score": 87.4
+  },
+  {
+    "id": "strangers-on-a-train",
+    "name": "Strangers on a Train",
+    "year": 1951,
+    "imdb": 79,
+    "rotten": 98,
+    "meta": 88,
+    "rotten_user": 92,
+    "meta_user": 80,
+    "documentary": false,
+    "score": 87.4
+  },
+  {
     "id": "the-bride-of-frankenstein",
     "name": "The Bride of Frankenstein",
     "year": 1935,
@@ -2362,6 +2554,18 @@
     "meta_user": 79,
     "documentary": false,
     "score": 87.4
+  },
+  {
+    "id": "before-midnight",
+    "name": "Before Midnight",
+    "year": 2013,
+    "imdb": 79,
+    "rotten": 98,
+    "meta": 94,
+    "rotten_user": 82,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 87.2
   },
   {
     "id": "the-fog-of-war",
@@ -2420,6 +2624,18 @@
     "meta": 94,
     "rotten_user": 85,
     "meta_user": 85,
+    "documentary": false,
+    "score": 87.2
+  },
+  {
+    "id": "elevator-to-the-gallows",
+    "name": "Elevator to the Gallows",
+    "year": 1961,
+    "imdb": 79,
+    "rotten": 93,
+    "meta": 94,
+    "rotten_user": 91,
+    "meta_user": 79,
     "documentary": false,
     "score": 87.2
   },
@@ -2556,6 +2772,18 @@
     "score": 87.0
   },
   {
+    "id": "the-hustler",
+    "name": "The Hustler",
+    "year": 1961,
+    "imdb": 79,
+    "rotten": 94,
+    "meta": 90,
+    "rotten_user": 92,
+    "meta_user": 80,
+    "documentary": false,
+    "score": 87.0
+  },
+  {
     "id": "sullivan-s-travels",
     "name": "Sullivan's Travels",
     "year": 1941,
@@ -2580,6 +2808,18 @@
     "score": 86.8
   },
   {
+    "id": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    "name": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+    "year": 2020,
+    "imdb": 82,
+    "rotten": 98,
+    "meta": 72,
+    "rotten_user": 99,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 86.8
+  },
+  {
     "id": "marriage-story",
     "name": "Marriage Story",
     "year": 2019,
@@ -2588,6 +2828,30 @@
     "meta": 94,
     "rotten_user": 85,
     "meta_user": 81,
+    "documentary": false,
+    "score": 86.8
+  },
+  {
+    "id": "my-life-as-a-zucchini",
+    "name": "My Life as a Zucchini",
+    "year": 2016,
+    "imdb": 78,
+    "rotten": 99,
+    "meta": 85,
+    "rotten_user": 89,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 86.8
+  },
+  {
+    "id": "zootopia",
+    "name": "Zootopia",
+    "year": 2016,
+    "imdb": 80,
+    "rotten": 98,
+    "meta": 78,
+    "rotten_user": 92,
+    "meta_user": 86,
     "documentary": false,
     "score": 86.8
   },
@@ -2748,6 +3012,30 @@
     "score": 86.6
   },
   {
+    "id": "masculine-feminine",
+    "name": "Masculine Feminine",
+    "year": 1966,
+    "imdb": 74,
+    "rotten": 96,
+    "meta": 93,
+    "rotten_user": 86,
+    "meta_user": 84,
+    "documentary": false,
+    "score": 86.6
+  },
+  {
+    "id": "the-killing",
+    "name": "The Killing",
+    "year": 1956,
+    "imdb": 79,
+    "rotten": 96,
+    "meta": 91,
+    "rotten_user": 92,
+    "meta_user": 75,
+    "documentary": false,
+    "score": 86.6
+  },
+  {
     "id": "the-life-and-death-of-colonel-blimp",
     "name": "The Life and Death of Colonel Blimp",
     "year": 1945,
@@ -2892,6 +3180,18 @@
     "score": 86.4
   },
   {
+    "id": "invasion-of-the-body-snatchers",
+    "name": "Invasion of the Body Snatchers",
+    "year": 1956,
+    "imdb": 77,
+    "rotten": 97,
+    "meta": 92,
+    "rotten_user": 85,
+    "meta_user": 81,
+    "documentary": false,
+    "score": 86.4
+  },
+  {
     "id": "i-vitelloni",
     "name": "I Vitelloni",
     "year": 1953,
@@ -2902,6 +3202,42 @@
     "meta_user": 77,
     "documentary": false,
     "score": 86.4
+  },
+  {
+    "id": "the-holdovers",
+    "name": "The Holdovers",
+    "year": 2023,
+    "imdb": 79,
+    "rotten": 97,
+    "meta": 82,
+    "rotten_user": 92,
+    "meta_user": 81,
+    "documentary": false,
+    "score": 86.2
+  },
+  {
+    "id": "faces-places",
+    "name": "Faces Places",
+    "year": 2017,
+    "imdb": 78,
+    "rotten": 99,
+    "meta": 94,
+    "rotten_user": 89,
+    "meta_user": 71,
+    "documentary": true,
+    "score": 86.2
+  },
+  {
+    "id": "la-la-land",
+    "name": "La La Land",
+    "year": 2016,
+    "imdb": 80,
+    "rotten": 91,
+    "meta": 94,
+    "rotten_user": 82,
+    "meta_user": 84,
+    "documentary": false,
+    "score": 86.2
   },
   {
     "id": "django-unchained",
@@ -2948,6 +3284,18 @@
     "meta": 84,
     "rotten_user": 90,
     "meta_user": 81,
+    "documentary": false,
+    "score": 86.2
+  },
+  {
+    "id": "blade-runner",
+    "name": "Blade Runner",
+    "year": 1982,
+    "imdb": 81,
+    "rotten": 89,
+    "meta": 84,
+    "rotten_user": 91,
+    "meta_user": 86,
     "documentary": false,
     "score": 86.2
   },
@@ -3012,6 +3360,18 @@
     "score": 86.2
   },
   {
+    "id": "hell-or-high-water",
+    "name": "Hell or High Water",
+    "year": 2016,
+    "imdb": 76,
+    "rotten": 97,
+    "meta": 88,
+    "rotten_user": 89,
+    "meta_user": 80,
+    "documentary": false,
+    "score": 86.0
+  },
+  {
     "id": "manchester-by-the-sea",
     "name": "Manchester by the Sea",
     "year": 2016,
@@ -3072,6 +3432,18 @@
     "score": 86.0
   },
   {
+    "id": "the-man-who-would-be-king",
+    "name": "The Man Who Would Be King",
+    "year": 1975,
+    "imdb": 77,
+    "rotten": 97,
+    "meta": 91,
+    "rotten_user": 90,
+    "meta_user": 75,
+    "documentary": false,
+    "score": 86.0
+  },
+  {
     "id": "captain-blood",
     "name": "Captain Blood",
     "year": 1935,
@@ -3108,6 +3480,30 @@
     "score": 85.8
   },
   {
+    "id": "amazing-grace",
+    "name": "Amazing Grace",
+    "year": 2018,
+    "imdb": 75,
+    "rotten": 99,
+    "meta": 94,
+    "rotten_user": 80,
+    "meta_user": 81,
+    "documentary": true,
+    "score": 85.8
+  },
+  {
+    "id": "call-me-by-your-name",
+    "name": "Call Me by Your Name",
+    "year": 2017,
+    "imdb": 75,
+    "rotten": 95,
+    "meta": 94,
+    "rotten_user": 86,
+    "meta_user": 79,
+    "documentary": false,
+    "score": 85.8
+  },
+  {
     "id": "let-the-right-one-in",
     "name": "Let the Right One In",
     "year": 2008,
@@ -3140,6 +3536,18 @@
     "meta": 72,
     "rotten_user": 94,
     "meta_user": 87,
+    "documentary": false,
+    "score": 85.8
+  },
+  {
+    "id": "band-of-outsiders",
+    "name": "Band of Outsiders",
+    "year": 1966,
+    "imdb": 76,
+    "rotten": 94,
+    "meta": 93,
+    "rotten_user": 91,
+    "meta_user": 75,
     "documentary": false,
     "score": 85.8
   },
@@ -3200,6 +3608,18 @@
     "meta": 95,
     "rotten_user": 81,
     "meta_user": 80,
+    "documentary": false,
+    "score": 85.6
+  },
+  {
+    "id": "spider-man-no-way-home",
+    "name": "Spider-Man: No Way Home",
+    "year": 2021,
+    "imdb": 82,
+    "rotten": 93,
+    "meta": 71,
+    "rotten_user": 97,
+    "meta_user": 85,
     "documentary": false,
     "score": 85.6
   },
@@ -3312,6 +3732,18 @@
     "score": 85.6
   },
   {
+    "id": "the-seventh-seal",
+    "name": "The Seventh Seal",
+    "year": 1957,
+    "imdb": 81,
+    "rotten": 93,
+    "meta": 88,
+    "rotten_user": 81,
+    "meta_user": 85,
+    "documentary": false,
+    "score": 85.6
+  },
+  {
     "id": "quai-des-orfevres",
     "name": "Quai des Orfevres",
     "year": 1947,
@@ -3360,6 +3792,18 @@
     "score": 85.6
   },
   {
+    "id": "sinners",
+    "name": "Sinners",
+    "year": 2025,
+    "imdb": 75,
+    "rotten": 97,
+    "meta": 84,
+    "rotten_user": 96,
+    "meta_user": 75,
+    "documentary": false,
+    "score": 85.4
+  },
+  {
     "id": "crip-camp",
     "name": "Crip Camp",
     "year": 2020,
@@ -3369,6 +3813,30 @@
     "rotten_user": 90,
     "meta_user": 74,
     "documentary": true,
+    "score": 85.4
+  },
+  {
+    "id": "dunkirk",
+    "name": "Dunkirk",
+    "year": 2017,
+    "imdb": 78,
+    "rotten": 92,
+    "meta": 94,
+    "rotten_user": 81,
+    "meta_user": 82,
+    "documentary": false,
+    "score": 85.4
+  },
+  {
+    "id": "hunt-for-the-wilderpeople",
+    "name": "Hunt for the Wilderpeople",
+    "year": 2016,
+    "imdb": 78,
+    "rotten": 97,
+    "meta": 81,
+    "rotten_user": 91,
+    "meta_user": 80,
+    "documentary": false,
     "score": 85.4
   },
   {
@@ -3442,6 +3910,30 @@
     "meta_user": 73,
     "documentary": false,
     "score": 85.4
+  },
+  {
+    "id": "the-seed-of-the-sacred-fig",
+    "name": "The Seed of the Sacred Fig",
+    "year": 2024,
+    "imdb": 75,
+    "rotten": 97,
+    "meta": 84,
+    "rotten_user": 94,
+    "meta_user": 76,
+    "documentary": false,
+    "score": 85.2
+  },
+  {
+    "id": "klaus",
+    "name": "Klaus",
+    "year": 2019,
+    "imdb": 82,
+    "rotten": 95,
+    "meta": 65,
+    "rotten_user": 96,
+    "meta_user": 88,
+    "documentary": false,
+    "score": 85.2
   },
   {
     "id": "jules-and-jim",
@@ -3624,6 +4116,18 @@
     "score": 84.8
   },
   {
+    "id": "petite-maman",
+    "name": "Petite Maman",
+    "year": 2021,
+    "imdb": 74,
+    "rotten": 97,
+    "meta": 93,
+    "rotten_user": 81,
+    "meta_user": 79,
+    "documentary": false,
+    "score": 84.8
+  },
+  {
     "id": "the-dark-knight-rises",
     "name": "The Dark Knight Rises",
     "year": 2012,
@@ -3720,6 +4224,18 @@
     "score": 84.8
   },
   {
+    "id": "red-beard",
+    "name": "Red Beard",
+    "year": 1968,
+    "imdb": 83,
+    "rotten": 73,
+    "meta": 90,
+    "rotten_user": 94,
+    "meta_user": 84,
+    "documentary": false,
+    "score": 84.8
+  },
+  {
     "id": "mildred-pierce",
     "name": "Mildred Pierce",
     "year": 1945,
@@ -3780,6 +4296,18 @@
     "score": 84.6
   },
   {
+    "id": "ride-the-high-country",
+    "name": "Ride the High Country",
+    "year": 1962,
+    "imdb": 74,
+    "rotten": 89,
+    "meta": 92,
+    "rotten_user": 83,
+    "meta_user": 85,
+    "documentary": false,
+    "score": 84.6
+  },
+  {
     "id": "the-searchers",
     "name": "The Searchers",
     "year": 1956,
@@ -3824,6 +4352,18 @@
     "meta": 78,
     "rotten_user": 94,
     "meta_user": 85,
+    "documentary": false,
+    "score": 84.4
+  },
+  {
+    "id": "the-african-queen",
+    "name": "The African Queen",
+    "year": 1952,
+    "imdb": 77,
+    "rotten": 96,
+    "meta": 91,
+    "rotten_user": 86,
+    "meta_user": 72,
     "documentary": false,
     "score": 84.4
   },
@@ -3884,6 +4424,18 @@
     "meta": 67,
     "rotten_user": 96,
     "meta_user": 89,
+    "documentary": false,
+    "score": 84.2
+  },
+  {
+    "id": "close-encounters-of-the-third-kind",
+    "name": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "imdb": 76,
+    "rotten": 91,
+    "meta": 90,
+    "rotten_user": 85,
+    "meta_user": 79,
     "documentary": false,
     "score": 84.2
   },
@@ -3972,6 +4524,30 @@
     "score": 84.0
   },
   {
+    "id": "no-bears",
+    "name": "No Bears",
+    "year": 2022,
+    "imdb": 72,
+    "rotten": 99,
+    "meta": 93,
+    "rotten_user": 77,
+    "meta_user": 78,
+    "documentary": false,
+    "score": 83.8
+  },
+  {
+    "id": "1917",
+    "name": "1917",
+    "year": 2019,
+    "imdb": 82,
+    "rotten": 88,
+    "meta": 78,
+    "rotten_user": 88,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 83.8
+  },
+  {
     "id": "once-upon-a-time-in-america",
     "name": "Once Upon a Time in America",
     "year": 1984,
@@ -4006,6 +4582,18 @@
     "meta_user": 58,
     "documentary": false,
     "score": 83.8
+  },
+  {
+    "id": "eighth-grade",
+    "name": "Eighth Grade",
+    "year": 2018,
+    "imdb": 73,
+    "rotten": 99,
+    "meta": 85,
+    "rotten_user": 82,
+    "meta_user": 79,
+    "documentary": false,
+    "score": 83.6
   },
   {
     "id": "the-little-mermaid",
@@ -4116,6 +4704,18 @@
     "score": 83.2
   },
   {
+    "id": "alphaville",
+    "name": "Alphaville",
+    "year": 1965,
+    "imdb": 70,
+    "rotten": 92,
+    "meta": 92,
+    "rotten_user": 81,
+    "meta_user": 81,
+    "documentary": false,
+    "score": 83.2
+  },
+  {
     "id": "rocks",
     "name": "Rocks",
     "year": 2019,
@@ -4200,6 +4800,18 @@
     "score": 82.8
   },
   {
+    "id": "two-lane-blacktop",
+    "name": "Two-Lane Blacktop",
+    "year": 1971,
+    "imdb": 72,
+    "rotten": 92,
+    "meta": 89,
+    "rotten_user": 81,
+    "meta_user": 80,
+    "documentary": false,
+    "score": 82.8
+  },
+  {
     "id": "the-band-wagon",
     "name": "The Band Wagon",
     "year": 1953,
@@ -4222,6 +4834,18 @@
     "meta_user": 71,
     "documentary": false,
     "score": 82.8
+  },
+  {
+    "id": "blackberry",
+    "name": "BlackBerry",
+    "year": 2023,
+    "imdb": 73,
+    "rotten": 97,
+    "meta": 78,
+    "rotten_user": 94,
+    "meta_user": 71,
+    "documentary": false,
+    "score": 82.6
   },
   {
     "id": "leave-no-trace",
@@ -4260,6 +4884,18 @@
     "score": 82.6
   },
   {
+    "id": "tootsie",
+    "name": "Tootsie",
+    "year": 1982,
+    "imdb": 74,
+    "rotten": 91,
+    "meta": 88,
+    "rotten_user": 81,
+    "meta_user": 79,
+    "documentary": false,
+    "score": 82.6
+  },
+  {
     "id": "selma",
     "name": "Selma",
     "year": 2014,
@@ -4294,6 +4930,18 @@
     "meta_user": 75,
     "documentary": false,
     "score": 82.4
+  },
+  {
+    "id": "hacksaw-ridge",
+    "name": "Hacksaw Ridge",
+    "year": 2016,
+    "imdb": 81,
+    "rotten": 84,
+    "meta": 71,
+    "rotten_user": 92,
+    "meta_user": 83,
+    "documentary": false,
+    "score": 82.2
   },
   {
     "id": "requiem-for-a-dream",
@@ -4340,6 +4988,18 @@
     "meta": 94,
     "rotten_user": 77,
     "meta_user": 70,
+    "documentary": false,
+    "score": 82.2
+  },
+  {
+    "id": "the-texas-chain-saw-massacre",
+    "name": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "imdb": 74,
+    "rotten": 84,
+    "meta": 92,
+    "rotten_user": 82,
+    "meta_user": 79,
     "documentary": false,
     "score": 82.2
   },
@@ -4392,6 +5052,18 @@
     "score": 82.0
   },
   {
+    "id": "frenzy",
+    "name": "Frenzy",
+    "year": 1972,
+    "imdb": 74,
+    "rotten": 89,
+    "meta": 92,
+    "rotten_user": 78,
+    "meta_user": 76,
+    "documentary": false,
+    "score": 81.8
+  },
+  {
     "id": "dumbo",
     "name": "Dumbo",
     "year": 1941,
@@ -4414,6 +5086,18 @@
     "meta_user": 87,
     "documentary": false,
     "score": 81.6
+  },
+  {
+    "id": "tar",
+    "name": "T\u00c1R",
+    "year": 2022,
+    "imdb": 74,
+    "rotten": 91,
+    "meta": 93,
+    "rotten_user": 74,
+    "meta_user": 75,
+    "documentary": false,
+    "score": 81.4
   },
   {
     "id": "the-prestige",
@@ -4440,6 +5124,18 @@
     "score": 81.2
   },
   {
+    "id": "all-we-imagine-as-light",
+    "name": "All We Imagine as Light",
+    "year": 2024,
+    "imdb": 71,
+    "rotten": 100,
+    "meta": 93,
+    "rotten_user": 71,
+    "meta_user": 69,
+    "documentary": false,
+    "score": 80.8
+  },
+  {
     "id": "leon-the-professional",
     "name": "L\u00e9on: The Professional",
     "year": 1994,
@@ -4450,6 +5146,18 @@
     "meta_user": 84,
     "documentary": false,
     "score": 80.8
+  },
+  {
+    "id": "toni-erdmann",
+    "name": "Toni Erdmann",
+    "year": 2016,
+    "imdb": 73,
+    "rotten": 93,
+    "meta": 93,
+    "rotten_user": 73,
+    "meta_user": 71,
+    "documentary": false,
+    "score": 80.6
   },
   {
     "id": "life-is-beautiful",
@@ -4512,6 +5220,18 @@
     "score": 80.4
   },
   {
+    "id": "eraserhead",
+    "name": "Eraserhead",
+    "year": 1978,
+    "imdb": 72,
+    "rotten": 87,
+    "meta": 87,
+    "rotten_user": 82,
+    "meta_user": 73,
+    "documentary": false,
+    "score": 80.2
+  },
+  {
     "id": "do-not-expect-too-much-from-the-end-of-the-world",
     "name": "Do Not Expect Too Much From the End of the World",
     "year": 2024,
@@ -4520,6 +5240,18 @@
     "meta": 95,
     "rotten_user": 68,
     "meta_user": 67,
+    "documentary": false,
+    "score": 80.0
+  },
+  {
+    "id": "green-book",
+    "name": "Green Book",
+    "year": 2018,
+    "imdb": 82,
+    "rotten": 77,
+    "meta": 69,
+    "rotten_user": 92,
+    "meta_user": 80,
     "documentary": false,
     "score": 80.0
   },
@@ -4606,5 +5338,29 @@
     "meta_user": 69,
     "documentary": false,
     "score": 76.6
+  },
+  {
+    "id": "richard-iii",
+    "name": "Richard III",
+    "year": 1956,
+    "imdb": 73,
+    "rotten": 81,
+    "meta": 88,
+    "rotten_user": 79,
+    "meta_user": 45,
+    "documentary": false,
+    "score": 73.2
+  },
+  {
+    "id": "our-body",
+    "name": "Our Body",
+    "year": 2023,
+    "imdb": 78,
+    "rotten": 100,
+    "meta": 93,
+    "rotten_user": 43,
+    "meta_user": 46,
+    "documentary": true,
+    "score": 72.0
   }
 ]
