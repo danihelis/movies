@@ -21,7 +21,7 @@ function computeProgressiveList(data, group = 5, years = 100,
     }
 
     const ranked = [...available];
-    ranked.sort((a, b) => b.score - a.score);
+    ranked.sort((a, b) => (b.score - a.score) || (b.year - a.year));
     ranked.slice(0, group).forEach(m => {
       list.add(m);
       available.delete(m);
